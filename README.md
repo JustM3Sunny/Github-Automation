@@ -76,7 +76,7 @@ If you choose option 6 (Generate README File), you'll get an automatically gener
 
 markdown
 Copy code
-# Project Title
+# Git Automation
 
 This is a sample project. Add more detailed descriptions here.
 Contributing
@@ -96,6 +96,3 @@ Copy code
 - **Example Usage**: I included an example so that the user knows exactly what to expect while interacting with the script.
 - **README Generation**: It also gives a glimpse of how the README is generated.
 
-Yeh README tumhare GitHub Repo Manager tool ke liye ek **killer look** dega. 💥😎
-
-Let me know if you need more tweaks or anything else!
